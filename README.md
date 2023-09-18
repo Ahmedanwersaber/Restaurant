@@ -1,4 +1,7 @@
 # FilmMaster
+#in the first you shoud download node modules
+### `npm install node_modules`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
